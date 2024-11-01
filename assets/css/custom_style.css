@@ -1,0 +1,9 @@
+.jumbotron.pro_plugins_top {
+    background: linear-gradient( 40deg, #7873f5, #ff6ec4 ) !important;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    width: 99%;
+}
+.plugin_container .card {
+    padding: 0;
+}

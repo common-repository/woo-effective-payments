@@ -1,0 +1,194 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-23 10:08+0530\n"
+"PO-Revision-Date: 2019-12-23 10:10+0530\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: \n"
+"Language: en\n"
+
+#: effective-payment-solutions-bt-rajthemes.php:38
+#, php-format
+msgid ""
+"Woo Effective Payments to be installed and active. You can download %s here."
+msgstr ""
+
+#: effective-payment-solutions-bt-rajthemes.php:110
+msgid "Indian Rupee"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:15
+msgid "Instamojo Payment Gateway ( By RajThemes )"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:16
+msgid ""
+"Direct payment via Instamojo. Instamojo accepts Credit / Debit Cards, "
+"Netbanking."
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:66
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:67
+msgid "Enable Instamojo Gateway"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:73
+msgid "Title"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:75
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:76
+#: admin/instamojo/class-instamojo-payments.php:119
+msgid "Instamojo"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:80
+msgid "Description"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:82
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:83
+msgid "Pay with your credit card via our super-cool payment gateway."
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:86
+msgid "Test mode"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:87
+msgid "Enable Test Mode"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:89
+msgid "Place the payment gateway in test mode using test API keys."
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:94
+msgid "Test Private Auth Token"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:98
+msgid "Test Private API Key"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:102
+msgid "Live Private Auth Token"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:106
+msgid "Live Private API Key"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:120
+msgid ""
+"Instamojo works by give you interface to Instamojo to enter their payment "
+"information to complete their payment process. Note that Instamojo will only "
+"take payments in Indian Rupee(INR)."
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:131
+msgid "Instamojo Gateway Disabled"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:132
+#, php-format
+msgid ""
+"Choose Indian Rupee (Rs.) as your store currency in \n"
+"\t\t\t\t\t\t<a href=\"%s\">Pricing Options</a> to enable the Instamojo "
+"WooCommerce payment gateway."
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:175
+msgid "Data sent for creating order "
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:199
+msgid "Response from server on creating order"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:203
+msgid ""
+"<button type=\"button\" id=\"wl_wepsr_intamojo_pay_btn\">Pay Now</button>\n"
+"                <script>\n"
+"                jQuery(document).ready(function () {\n"
+"                    \"use strict\";\n"
+"                    jQuery(\"#wl_wepsr_intamojo_pay_btn\").click();\n"
+"                    jQuery(document).on(\"click\", "
+"\"#wl_wepsr_intamojo_pay_btn\", function (e) {\n"
+"                        e.preventDefault();\n"
+"                        Instamojo.open(\""
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:215
+#: admin/instamojo/payment-confirm.php:59
+msgid "Response from server:"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:232
+msgid ""
+"TEST MODE ENABLED. In test mode, you can use the card numbers listed in "
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:275
+msgid "First name is required!"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:279
+msgid "Last name is required!"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:283
+msgid "Email is required!"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:312
+msgid ""
+"Thank you for your order, please click the button below to Pay with "
+"Instamojo."
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:338
+msgid "Customer isn't satisfied with the quality"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:382
+#, php-format
+msgid "Refund: %1$s %2$s<br>Paytm Refund ID: %3$s<br>Reference ID: %4$s"
+msgstr ""
+
+#: admin/instamojo/class-instamojo-payments.php:386
+msgid "Not Refunded"
+msgstr ""
+
+#: admin/instamojo/payment-confirm.php:10
+msgid "Callback Called without  payment ID or payment req id exittng.."
+msgstr ""
+
+#: admin/instamojo/payment-confirm.php:77
+msgid "Extracted order id from trasaction_id:"
+msgstr ""
+
+#: admin/instamojo/payment-confirm.php:88
+msgid ""
+"Unpaid order cancelled - Instamojo Returned Failed Status for payment Id "
+msgstr ""
